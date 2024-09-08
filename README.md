@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José Daniel</h1>
 <h3 align="center">A passionate full stack developer ⭐</h3>
 🔭 I’m currently working on something cool🔥
-
+📫 How to reach me josedanieloj@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
