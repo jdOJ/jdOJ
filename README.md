@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Daniel</h1>
-<h3 align="center">A passionate full stack developer ⭐</h3>
+<h3 align="center">A passionate Full Stack Developer ⭐</h3>
 
 - 🔭 I’m currently working on **something cool**
 - 📫 How to reach me **josedanieloj@gmail.com**
